@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               The Pursuit of Wellness 
+tagline:             'tackling the world of medicine'
+description:         'I''m a grad student who has been suffering from unexplained chronic pain and fatigue for several years. On these pages I''ll detail what I learn as I delve into medical literature to find a diagnosis that the medical system failed to provide.'
+url:                 http://something.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Sam Ritter 
+  url:               something.github.io 
+  email:             sritter88@gmail.com
 
 # Custom vars
 version:             1.0.0
