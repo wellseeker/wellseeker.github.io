@@ -15,56 +15,54 @@ So to get started, I searched online for med school curricula. Despite what it s
 
 It seems like in the first two years, they cover a list of basic sciences, in the third year they cover a swath of clinical disciplines, and in the fourth year they specialize in a clinical discipline. Based on what I found in their curriculum, as well as a fair amount of browsing links on Wikipedia's [outline of medicine](https://en.wikipedia.org/wiki/Outline_of_medicine), [outline of health sciences](https://en.wikipedia.org/wiki/Outline_of_health_sciences), and [list of interdisciplinary fields](https://en.wikipedia.org/wiki/Medicine#Interdisciplinary_fields), I came up with the following lists of names of medical areas.
 
-* Anatomy
-* Biochemistry
-* Cell Biology
-* Human Behavior
-* Genetics
-* Immunology 
-* Physiology
-* Microbiology, Molecular Biology
-* Pathology
-* Pharmacology
-* Neuroscience
-* Embryology
+A number of the areas are general in nature; these are listed here.
+
+* Anatomy: the structure of the body and its parts
+* Physiology: the processes of the body and its parts
+* Biochemistry: chemical processes occurring in living organisms
+* Cell Biology: cells, their structure, function, and synthesis.
+* Psychology: human behavior
+* Genetics: the molecular mechanisms that determine anatomy, physiology, and behavior 
+* Immunology: the body's defensive mechanisms against disease
+* Microbiology: microscopic unicellular, multicellular, and acellular organsisms
+* Molecular Biology: molecular underpinnings of replication, trascription, translation, and cell function
+* Pathology: the causes of disease 
+* Pharmacology: molecules that exert biochemical effects on an organism
+* Embryology: the development of sex cells, fertilization, embryos, and fetuses
 
 There are some topics that deal with specific types of ailments.
 
-* Infectious Disease
-* Oncology
+* Infectious Disease: the diagnosis and treatment of infections, i.e., the invasion of the body by disease causing agents
+* Oncology: tumors, including cancerous tumors
 
 Then there is a bunch of domains that deal with a specific organ or set of organs.
 
-* Cardiology
-* Dermatology
-* Endocrinology
-* Gastroenterology
-* Hepatology
-* Pulmonology 
-* Hematology
-* Neurology
-* Nephrology
-* Opthalmology
-* Otolarygology
-* Urology
-* Podiatry
-* Obstetrics and Gynecology
+* Cardiology: disorders of the heart
+* Dermatology: disorders of the skin, hair, and nails
+* Endocrinology: the system of glands that secretes hormones (signalling molecules) into the circulatory system to be carried to distant organs.
+* Gastroenterology: the digestive system and its disorders
+* Hepatology: liver, gallbladder, billiary tree, pancreas
+* Pulmonology: the respiratory tract
+* Hematology: blood, its function and components
+* Neuroscience: the nervous system
+* Neurology: disorders of the nervous system
+* Nephrology: the kidneys
+* Opthalmology: anatomy, physiology, and diseases of the eye
+* Otolarygology: disorders of the ears, nose, and throat
+* Urology: diseases of the urinary tract and male reproductive organs
+* Obstetrics and Gynecology: childbirth, pregnancy, health of female reproductive organs
 
 Then there are some topics that deal with specific types of patients. 
 
-* Pediatrics
-* Geriatrics
+* Pediatrics: care of infants children and adolescents
+* Geriatrics: care of elderly people
 
-Others topics are hard to classify.
+Others topics are applied in nature.
 
-* Anesthesiology
+* Surgery: the use of manual or instrumental interventions to treat a pathological condition
+* Anesthesiology: pain relief during and after surgery
 
-Other topics that aren't as canonical as the others I've listed seem relevant to me.
-
-* Psychneuroimmunology
-* Functional Medicine
-
-That's a lot of topics, so I won't have time to learn about each one. Instead I'll apply cruide pruning heuristic, basically only looking topics that "seem relevant", as far as I can tell. For each one that isn't pruned, I'll make a separate post describing what it's all about, and what, if any, relevance it might have.
+That's a lot of topics, so I won't have time to learn about each one. Instead I'll apply crude pruning heuristic, basically only looking topics that "seem relevant", as far as I can tell. For each one that isn't pruned, I'll make a separate post describing what it's all about, and what, if any, relevance it might have.
 
 <!---
 Very interesting:
