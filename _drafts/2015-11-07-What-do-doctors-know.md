@@ -61,7 +61,44 @@ This is great for me, because it means I can pretty much ignore everything else 
 * Southern blotting: using a DNA probe - which binds to a specific DNA sequence and lights up - to identify DNA sequences in a blot
 * Northern blot: like the southern blot but for RNA
 * Southwestern blot: detects proteins that bind to DNA
-* Microarrays: 
+* Microarrays: uses DNA/RNA probes to detect the presence of DNA/RNA sequences.
+* Enzyme-linked immunosorbent assay (ELIZA): uses antigens or antibodies to detect the presence of antigens or antibodies in a patient's blood sample 
+* Karotype: chromosomes are stained and sorted based on various features. used to diagnose chromosomal imbalances.
+* Fluorescent in situ hybridization: fluorescent DNA/RNA hybrizes to sequences of DNA/RNA on chromosomes, rather than chopped up sequences on a plate as in microarrays.
+* Cre-lox system: lab tool for carrying out gene mutations. uses an enzyme called cre recombinase on sequences called lox sequences.
+* RNA interference: synthesized dsRNA reduces the effect of complementary mRNA, reducing gene expression.
+ 
+#### Genetics 
+
+* Diseases that happen when there are problems with genes
+* Dominant, recessive, and other such traits. diseases carried as different types of traits.
+
+#### Nutrition
+
+* Fat and water soluble vitamins, how they work and what happens when they're defficient. 
+
+
+#### Metabolism
+
+* Processes by which different things are metabolized
+* Disorders of metabolism of different things
+
+### Microbiology
+
+#### Bacteriology 
+
+* Components of a bacteria - what each component is made out of and what its function is.
+* Components of the cell wall of bacteria
+* Taxonomy of bacteria based on their shape and gram positivity vs negativity.
+* Stains for various gram-negavive bacteria.
+* Culture requirements for many different bacteria
+* Aerobes and anaerobes: bacteria that can and can't survive in air. 
+* Intracellular bacteria
+* Examples of encapsulated bacteria, i.e., bacteria that have a polysaccharide outer covering
+* Vaccines for encapsulated bacteria - have to be polysaccharide capsule antigens 
+* Urease positive bacteria: many GI and urinary tract pathogens produce urease, which can be detected. I think the test requires a biopsy.
+* 
+
 
 
 ## Residency
