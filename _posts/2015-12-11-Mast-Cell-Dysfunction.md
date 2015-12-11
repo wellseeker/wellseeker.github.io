@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mast Cell Disfunction 
+title: Mast Cell Dysfunction 
 ---
 
 ### What are  mast cell disorders?
