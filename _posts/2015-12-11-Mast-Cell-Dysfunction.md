@@ -4,7 +4,7 @@ title: Mast Cell Dysfunction
 ---
 
 ### What are  mast cell disorders?
-From [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069946/), mast cell activation disorders (MCADs) are a collection of disorders in which there is an accumulation of pathological mast cells in some subset a patient's organs and/or tissues AND there is an aberrant release of mast cell mediators. 
+Mast cell activation disorders (MCADs) are a collection of disorders in which there is an accumulation of pathological mast cells in some subset a patient's organs and/or tissues AND there is an aberrant release of mast cell mediators (from [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069946/)). 
 
 [Here](https://en.wikipedia.org/wiki/Mastocytosis#cite_note-2) someone notes that the classification of these disorders is being reviewed for revision, and specific issues with the current classification are stated [here](http://www.mastocytosis.ca/MSC%20Patient%20Experience.pdf).
 
@@ -30,14 +30,20 @@ Here is some more information on mastocytosis I found from other sources. Mastoc
 [This article](http://www.mastocytosis.ca/MSC%20Patient%20Experience.pdf) describes the mastocytosis patient's experience. It's a bit vague, but it does provide an interesting perspective.
 
 This disorder is in one way opposite to CFS - in CFS the clinical presentation has been described voluminously but there has historically been an absence of etiology. It mastocytosis the etiology is known and the clinical presentation is worthy of publication. 
-
 ### Are mast cell disorders related to CFS?
 
-[This](/Users/sam/Downloads/out\ \(1\).pdf) paper mentions that the symptom profile of CFS, fibromyalgia, and MCADs are similar.
+[This](http://www.ncbi.nlm.nih.gov/pubmed/24784142) paper mentions that the symptom profile of CFS, fibromyalgia, and MCADs are similar.
 
 [This](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3498825/) study provides some exceedingly indirect evidence that CFS and mast cells could be related. In this work the authors put human mast cells in a preparation with various antidepressants, and found only the tricyclic antidepressants caused a reduction in the production of some mast cell mediators. They then refer to a study of fibromyalgia patients wherein only tricyclics out of a range of antidepressants reduced pain. 
 
 Some speculation about a possible relationship between FM or CFS and MCAD is made [here](http://www.cortjohnson.org/blog/2015/03/17/fibromyalgia-histamine-intolerance-connection/).
 
-### How can you find out if you have SM or an MCAS?
+### Relationship between hymenoptera reactions and MCADs
+This 2015 short [review](http://medcraveonline.com/MOJI/MOJI-02-00032.pdf) of MCADs cites a study that apparently found that 13.8% of patients who had a systemic reaction to hymenoptera had clonal mast cell disorders. Further, they say that study found that 29 out of 31 patients with elevated tryptase (>11.4 ng/ml) and a history of hymenoptera anaphylaxis had a clonal abnormality consistent with indolent SM or monoclonal mast cell activation syndrome. I couldn't get access to the original study or even its abstract, and this is quite a surprising finding, so I'll take it with a grain of salt. 
+
+As a sidenote, that review also contains a nice history of research on MCADs.
+
+### How can you find out if you have SM or an MCAD?
 [This](http://www.cortjohnson.org/forums/threads/differentiating-mast-cell-activation-syndrome-mcas-from-pots.2388/) blog post describes some common diagnostics. One is serum tryptase levels. If that's positive a bone marrow biopsy may be indicated. The post also mentions urinalysis for some mast cell products, but I'm not sure how well supported that test is in the literature.
+
+[This](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753019/) 2010 paper proposes diagnostic criteria for MCAS, and [this](http://medcraveonline.com/MOJI/MOJI-02-00032.pdf) one summarizes common diagnostic approaches.
