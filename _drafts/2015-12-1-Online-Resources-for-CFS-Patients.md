@@ -28,5 +28,7 @@ benjamin nadelson: http://www.painandfatigue.com/index.html
 
 * Researchers
 elizabeth unger: http://www.cdc.gov/cfs/news/cvbd/
+leonard jason: http://condor.depaul.edu/ljason/
+nancy klimas: http://www.nova.edu/nim/clinic/dr.-nancy-klimas-bio-page.html
 
 
