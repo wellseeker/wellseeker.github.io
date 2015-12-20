@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               The Pursuit of Wellness 
 tagline:             'searching in the world of medicine'
-description:         'I''ve been experiencing unexplained chronic pain and fatigue for several years, and in this blog  I''ll detail what I learn as I delve into medical literature to find a diagnosis that the medical system failed to provide. I''d love to hear from you at wellseeker01@gmail.com.'
+description:         'A blog about the medical knowledge I gain as I delve into research literature to find the cause of year-spanning pain and fatigue. I''d love to hear from you at wellseeker01@gmail.com.'
 url:                 http://something.github.io
 baseurl:             ''
 paginate:            5
