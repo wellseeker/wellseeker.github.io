@@ -34,3 +34,5 @@ That paper is cited in [this](http://www.phadia.com/en/Products/Allergy-testing-
 That practice parameters paper says that detection of sensitivities to different types of hymenoptera requires testing with all the commercially available bee, vespid, and ant venoms. This seems to be because, although the venoms operate in similar ways, there are differences in function and individual's sensitivies.
 
 It also mentions that limited cross-reactivity exists between fire ant venom and the venom of other hymenoptera. They even say that if the fire ant was identified as the stinging insect testing for sensitivities to other venoms is not indicated.
+
+{{ site.myfooter }}

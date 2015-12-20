@@ -64,6 +64,8 @@ Others topics are applied in nature.
 
 That's a lot of topics, so I won't have time to learn about each one. Instead I'll apply crude pruning heuristic, basically only looking topics that "seem relevant", as far as I can tell. For each one that isn't pruned, I'll make a separate post describing what it's all about, and what, if any, relevance it might have.
 
+{{ site.myfooter }}
+
 <!---
 Very interesting:
 * Psychneuroimmunology

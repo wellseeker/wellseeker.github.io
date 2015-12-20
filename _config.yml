@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               The Pursuit of Wellness 
 tagline:             'searching in the world of medicine'
-description:         'I''m a grad student who has been suffering from unexplained chronic pain and fatigue for several years. On these pages I''ll detail what I learn as I delve into medical literature to find a diagnosis that the medical system failed to provide.'
+description:         'I''ve been experiencing unexplained chronic pain and fatigue for several years, and in this blog  I''ll detail what I learn as I delve into medical literature to find a diagnosis that the medical system failed to provide. I''d love to hear from you at wellseeker01@gmail.com.'
 url:                 http://something.github.io
 baseurl:             ''
 paginate:            5
@@ -20,7 +20,8 @@ author:
 
 # Custom vars
 version:             1.0.0
-myfooter:        "---  \n I'd love to hear from you, email me at <wellseeker01@gmail.com>. \n  \n---  \n  \nReferences and Notes"
+myfooter:            "---  \n I'd love to hear from you, email me at <wellseeker01@gmail.com>. \n  \n---  \n  \nReferences and Notes"
+ 
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.

@@ -66,7 +66,7 @@ Probably not. The Canadian criteria is more strict on a number of other relative
 There are three main formal criteria used, but researchers actually rely on clinician judgments for inclusion in studies. It's important to find at least summary data on the clinical presentations of the participants in a study when interpreting results from it. As an example, in those post I examined a specific symptom category, PEM, in the context of a specific research dataset, the CFI dataset. This is a particularly useful example because the CFI dataset is and will continue to be used in lots of other studies.
 
 
-### References
 [^database_study]: Klimas, N. G., et al. "Findings from a clinical and laboratory database developed for discovery of pathogenic mechanisms in myalgic encephalomyelitis/chronic fatigue syndrome." Fatigue: Biomedicine, Health & Behavior 3.2 (2015): 75-96.
 [^plasma_signature_study]: Hornig, M., Montoya, J. G., Klimas, N. G., Levine, S., Felsenstein, D., Bateman, L., ... & Eddy, M. L. (2015). Distinct plasma immune signatures in ME/CFS are present early in the course of illness. Science Advances, 1(1), e1400121.
 
+{{ site.myfooter }}

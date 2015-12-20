@@ -47,3 +47,5 @@ As a sidenote, that review also contains a nice history of research on MCADs.
 [This](http://www.cortjohnson.org/forums/threads/differentiating-mast-cell-activation-syndrome-mcas-from-pots.2388/) blog post describes some common diagnostics. One is serum tryptase levels. If that's positive a bone marrow biopsy may be indicated. The post also mentions urinalysis for some mast cell products, but I'm not sure how well supported that test is in the literature.
 
 [This](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753019/) 2010 paper proposes diagnostic criteria for MCAS, and [this](http://medcraveonline.com/MOJI/MOJI-02-00032.pdf) one summarizes common diagnostic approaches.
+
+{{ site.myfooter }}
