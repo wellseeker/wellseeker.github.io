@@ -73,11 +73,10 @@ Interestingly, none of the common tests I listed previously figured prominently 
 * Read rest of chapter
 * Decide what to do next in regard to examining auto-antibody assays 
 
-
-
 Sensitivity and specifity are important properties by which different assay methods are judged.
 
-### References and Notes
+{{ site.myfooter }}
+
 [^aab_wikipedia]: Autoantibody. (2015, August 27). In Wikipedia, The Free Encyclopedia. Retrieved 16:56, December 17, 2015, from https://en.wikipedia.org/w/index.php?title=Autoantibody&oldid=678169043
 [^neuroimmune_company_note]: As a sidenote, that blog seems to have some interesting content, and it's made by a [company](https://www.neurorelief.com/?p=home) that does some kind of neurotrasmitter immune testing. I'm not sure that it's legit, but it looks to be worth more attention. 
 [^chap_77]: Rose, N. R., & Mackay, I. R. (Eds.). (2006). The autoimmune diseases. San Diego, CA: Elsevier Academic Press. Chapter 77.

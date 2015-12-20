@@ -20,6 +20,7 @@ author:
 
 # Custom vars
 version:             1.0.0
+myfooter:        "---  \n I'd love to hear from you, email me at <wellseeker01@gmail.com>. \n  \n---  \n  \nReferences and Notes"
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
