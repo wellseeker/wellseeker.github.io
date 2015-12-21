@@ -18,7 +18,22 @@ From [this](http://www.mayoclinic.org/diseases-conditions/mixed-connective-tissu
 ### Migratory Sensory Neuropathy
 https://en.wikipedia.org/wiki/Wartenberg%27s_migratory_sensory_neuropathy
 
+### Vasculitis
+
+### Hashimoto's disease
+The immune system attacks the thyroid gland, often leading to hypothyroidism; that is, the thyroid produces less thyroid hormone. The thyroid hormones are triiodothyronine (T<sub>3</sub>) and thyroxine (T<sub>4</sub>). Also relevant is thyroid stimulating hormone (TSH), which is produced by the pituitary gland. Muscle pain, joint pain, and fatigue are listed as symptoms, along with some other fairly nonspecific symptoms[^NIH_hashimotos].
+
+Blood tests can measure T<sub>3</sub>,  T<sub>4</sub>, and TSH. Blood tests also exist for detecting the presence of antibodies that attack the thyroid[^labtestsonline_thyroid_aab].
+
+There may be some controversy about the ranges for thyroid hormones used for determing whether thyroid disfunction is present. Unfortunately information on the topic is murky because hypothyroidism is a topic for popular doctors and functional medecine practitioners, whose writings must unfortunately be treated with skepticism. Content from such authors include [this](http://www.huffingtonpost.com/dr-raphael-kellman/why-routine-blood-tests-o_b_6801130.html) article and this [blog post](http://chriskresser.com/5-thyroid-patterns-that-wont-show-up-on-standard-lab-tests/).
+
+[This paper](http://press.endocrine.org/doi/abs/10.1210/jc.2005-0455) looks reasonably legit, published in a journal with an impact factor of 6.2[^jcem_impact]. It's also cited by a number of highly cited papers[^scholar_citing_papers]. I didn't read it closely, but from the abstract I didn't get the impression that people with hypothyroid-like symptoms should spend a lot of effort researching Hashimoto's if their thyroid hormone serum levels are in the normal range. It might be worth delving deeper into this though.
+
 
 ### References
 [^medline]: https://www.nlm.nih.gov/medlineplus/ency/article/000435.htm
 [^chap_77]: Rose, N. R., & Mackay, I. R. (Eds.). (2006). The autoimmune diseases. San Diego, CA: Elsevier Academic Press. Chapter 77
+[^labtestsonline_thyroid_aab]: https://labtestsonline.org/understanding/analytes/thyroid-antibodies/tab/test/
+[^NIH_hashimotos]: http://www.niddk.nih.gov/health-information/health-topics/endocrine/hashimotos-disease/Pages/fact-sheet.aspx
+[^jcem_impact]: http://press.endocrine.org/page/jcem/about
+[^scholar_citing_papers]: https://scholar.google.com/scholar?cites=1132737968752250232&as_sdt=5,34&sciodt=0,34&hl=en
