@@ -9,15 +9,19 @@ In the last post I worked on establishing a roadmap of medicine by browsing Wiki
 
 My medical pal confirmed that during the first two of the four years of traditional med school, instruction is focused on basic science, and that instruction in clinical practices is reserved for the 3rd and 4rth years. The first year covers normal physiology while the second year covers pathology. The metric of a student's success during these two years is her score on the [USMLE Step 1 Exam](http://www.usmle.org/step-1/), so the content of that exam is pretty much all you need to get a sense of what med students are jamming into their brains during that two years. It seems like a pretty standard resource for studying for the test is the [First Aid book on the subject](http://www.amazon.com/First-Aid-USMLE-Step-2015/dp/0071840060). 
 
-This is great for me, because it means I can pretty much ignore everything else and just check out that First Aid book. In the rest of this post, I'll read over the main topics covered in that book, and add in anything my med student amigo mentioned that he studied that wasn't in the book.
+This is great for me, because it means I can pretty much ignore everything else and just check out that First Aid book. In the last section of this post, I'll read over the main topics covered in that book, and add in anything my med student amigo mentioned that he studied that wasn't in the book.
 
-### Biochemistry
-<!--- From Ben: basics (just basics) of 
-    -cellular cytoskeleton
-    -cellular metabolism, and the pathways for recycling important molecules like ammonia. 
---->
+## Residency
 
-#### Molecular
+Every doctor I've seen also did a residence in some discipline. If the doc wasn't acting as a specialist, he or she typically had done a residency in internal medicine. In order to get a sense of what the doc probably learned during her residency, it's probably worth looking through the contents of board exam for her specialty. At the moment it doesn't feel super relevant for me to do this for any specialty, but if I do, I'll post what I find. 
+
+As a quick sidenote, I talked with a doc who was board certified in allergy/immunology and internal medicine, and when I asked whether training in either of his specialties covered chronic fatigue syndrome, he told me he'd never heard the disease.
+
+## Topics Covered in Med School 
+
+This section is in progress, so that topics farther down are covered less thoroughly.
+
+### Molecular
 
 * Chromatin structure and function: how DNA, RNA, and proteins are are bound together and function inside of a cell.
 * Nucleotides: the building blocks of nucleic acids like DNA and RNA.
@@ -75,7 +79,7 @@ This is great for me, because it means I can pretty much ignore everything else 
 
 #### Nutrition
 
-* Fat and water soluble vitamins, how they work and what happens when they're defficient. 
+* Fat and water soluble vitamins, how they work and what happens when they're deficient. 
 
 
 #### Metabolism
@@ -90,15 +94,89 @@ This is great for me, because it means I can pretty much ignore everything else 
 * Components of a bacteria - what each component is made out of and what its function is.
 * Components of the cell wall of bacteria
 * Taxonomy of bacteria based on their shape and gram positivity vs negativity.
-* Stains for various gram-negavive bacteria.
+* Stains for various gram-negative bacteria.
 * Culture requirements for many different bacteria
 * Aerobes and anaerobes: bacteria that can and can't survive in air. 
 * Intracellular bacteria
 * Examples of encapsulated bacteria, i.e., bacteria that have a polysaccharide outer covering
 * Vaccines for encapsulated bacteria - have to be polysaccharide capsule antigens 
 * Urease positive bacteria: many GI and urinary tract pathogens produce urease, which can be detected. I think the test requires a biopsy.
-* 
+* Intracellular bacteria: some bacteria live inside the host cells, including rickettsia and chlamydia 
+* Catalase positive bacteria: catalase is a common enzyme in organisms exposed to oxygen, protecting them from toxic byproducts of oxygen metabolisma. Some clinically relevant bacteria seem to produce catalase while others don't, and catalase can probably be detected using some laboratory method, it's possible to distinguish between various pathogens by testing for catalase.
+* Pigment producing bacteria: memorize some bacteria that produce pigment
+* Bacterial virulence factors: factors, typically proteins that are expressed by a bacteria that promotes its evasion of the host's response. For example, IgA protease cleaves IgA, and is secreted by e.g. pneumonia and influenza.
+* Type III secretion system: aka injectisome, a needle-like protein appendage from a bacteria used to inject toxins into a host cell.
+* Exotoxins and endotoxins: The former are emitted by bacteria, while the latter remain on the outer membrane of the bacteria. Exo are typically polypeptides while endo are typically lipopolysaccharides. Exo are fatal in much smaller doses than endo. Different levels of heat are necessary to destroy them.
+* Memorize a bunch of bacteria that release exotoxins, the mechanism of the exotoxin, and the clinical manifestation.
+
+### Bacterial Genetics
+
+* Transformation: the process by which bacteria take up free dna molecules.
+* Conjugation: process wherein bacteria exchange dna.
+* Transposition: when section of dna excises from its location in a strand and reintegrates in another section. dna can transpose from a plasmid to a chromosome.
+* Transduction: process wherein dna is transferred from what bacterium to another by a virus
+
+### Clinical Bacteriology
+
+* Gram positive and negative diagnosis algorithms
+* Appearance under microscope on blood agar of various bacteria
+* Clinical presentation of various bacterial infections
+* Mycosis, i.e., fungal infections
+* Protozoa in the gastro tract, CNS, blood
+* Nematodes and cestodes (roundworms and tapeworms), trematodes
+
+### Virology
+
+* Virus: small infectious agent that replicates only inside the cells of other organisms
+* Capsid: protein shell of a virus
+* Virus structures vary in complexity, from just a capsid with nucleic acid inside, to surface protein plus lipid bilayer plus capsid with nucleic acid inside.
+* There are some genetic processes specific to viruses.
+* Some viral vaccines have live attenuated viruses, some have dead viruses, some have a subcomponent of the virus.
+* Prions: infectious agents made up entirely of protein
+
+### Other microbiology
+
+* Normal flora in various parts of the body
+* Bacteria that cause food poisoning, diarrhea, pneumonia, meningitis
+* Urinary tract infections
+* Antimicrobials, e.g., drugs that prevent microbial disease.
 
 
+### Other notes 
 
-## Residency
+* Titer: a way of expressing concentration
+* TNF-alpha: tumor necrosis factor is a cytokine involved in systemic inflammation.
+* Lysis: when a cell breaks apart
+* Plasmid: a small dna molecule in a cell that is physically separated from chromosomal dna and can replicate separately.
+* Protozoa: a diverse group of unicellular eukaryotic organisms
+* DNA and RNA viruses, some details about how viruses work
+* Clinical and serological indicators of various viruses
+* Time course of HIV infection
+
+## Immunology
+
+## Pathology
+
+## Pharmacology
+
+## Cardiovascular
+
+## Endocrine
+
+## Gastrointestinal
+
+## Hematology and Oncology
+
+## Musculoskeletal, Skin, and Connective Tissuej
+
+## Neurology
+
+## Psychiatry
+
+## Renal
+
+## Reproductive
+
+## Respiratory
+
+{{ site.myfooter}}
