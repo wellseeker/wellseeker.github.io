@@ -16,3 +16,5 @@ What exactly does Wikipedia mean when it says dysautonomia is associated with CF
 I noticed that wikipedia treats IBS as disease associated with dysautonomia, while the Canadian CFS definition treats it as a dysautonomia symptom. This is a mess.
 
 To summarize a few minutes web searching on the topic, dysautonomia seems to refer to a bunch of symptoms, plus some results on tests, that are abnormal, along with an extremely vague idea about the etiology of those abnormalities. This is somewhat similar to the state of IBS itself, and the state of CFS - although in the case of CFS there seems to be more substantive chemical findings.
+
+{{ site.myfooter }}
