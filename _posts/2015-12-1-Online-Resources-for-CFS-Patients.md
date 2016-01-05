@@ -7,6 +7,7 @@ This is an ever-lengthening list of websites, clinicians, and researchers releva
 
 ### Websites
 
+* [This](http://chroniccurve.tumblr.com/post/15295991395/seronegativity-for-dummies-a-lesson-in) is an amazing blog by college student with rare chronic disorders.
 * http://www.cfidsselfhelp.org/about-us
 * http://iacfsme.org/Home.aspx
 * http://cfinitiative.org/about-the-initiative/
@@ -14,6 +15,7 @@ This is an ever-lengthening list of websites, clinicians, and researchers releva
 * https://batemanhornecenter.org/
 * http://www.cdc.gov/cfs/
 * http://med.stanford.edu/chronicfatiguesyndrome/about/projects.html
+* http://solvecfs.org/
 
 ### Clinicians
 

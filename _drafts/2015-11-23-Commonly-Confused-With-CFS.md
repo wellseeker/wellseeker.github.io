@@ -30,6 +30,8 @@ There may be some controversy about the ranges for thyroid hormones used for det
 [This paper](http://press.endocrine.org/doi/abs/10.1210/jc.2005-0455) looks reasonably legit, published in a journal with an impact factor of 6.2[^jcem_impact]. It's also cited by a number of highly cited papers[^scholar_citing_papers]. I didn't read it closely, but from the abstract I didn't get the impression that people with hypothyroid-like symptoms should spend a lot of effort researching Hashimoto's if their thyroid hormone serum levels are in the normal range. It might be worth delving deeper into this though.
 
 
+I'd be hesitant to trust the content of [this article](https://experiencelife.com/article/autoimmune-disorders-when-your-body-turns-on-you/), but it does have a nice list of disorders in which autoimmunity is thought to play a role.
+
 ### References
 [^medline]: https://www.nlm.nih.gov/medlineplus/ency/article/000435.htm
 [^chap_77]: Rose, N. R., & Mackay, I. R. (Eds.). (2006). The autoimmune diseases. San Diego, CA: Elsevier Academic Press. Chapter 77

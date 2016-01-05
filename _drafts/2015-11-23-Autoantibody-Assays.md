@@ -38,15 +38,26 @@ Another common set of serological (blood serum) tests I've seen is the immunoglo
 
 ### Todo
 
-* Go through this paper, adding it's relevant content to blog: http://onlinelibrary.wiley.com/doi/10.1002/art.22708/epdf
-* Read rest of chapter
+* Look for papers about the interpretation of the aab tests I've had done, and look for aab's that can be missed by that set of tests.  
+  * [This](http://ard.bmj.com/content/early/2010/05/25/ard.2009.127100.short) paper looks relevant, but I'll need to contact someone at the library to try to get it. 
+  * Look at [this](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1717342/pdf/v077p00299.pdf) article for basic info on IF ANA tests.  * [This study](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1717342/pdf/v077p00299.pdf) says in its abstract conclusion that a negative IF ANA test makes a diagnosis of SLE or mixed connective tissue disease extremely unlikely. 
+  * [This](study) found that a surprisingly high proportion of rheumatoid arthritis patients did not have abnormal CRP, SED rate, or rheumatoid factor.
+  * [This](http://qjmed.oxfordjournals.org/content/97/5/303) paper concludes that seronegative lupus appears to be an extremely rare event.
+  * Seemingly in counterpoint to the last paper, [this paper](http://www.jrheum.org/content/35/10/1994.short) found that normal ANA titers are common in SLE.
+  * [This paper](http://onlinelibrary.wiley.com/store/10.1002/acr.21930/asset/21930_ftp.pdf?v=1&t=iinktc2t&s=0a1fdb6c9b64ec45f52dfd58913a90f986763514) did some kind of lit review plus asking rheum docs what they thought, and came up with a list of recommendations. One of their recommendations was to not test ANA subserologies without a positive ANA and clinical suspicion, with some exceptions. It also recommends not screening even generic ANA's in patients with nonspecific symptoms such as fatigue and myalgia or in patients with fibromyalgia. I'm not sure what to make of the methodology of this paper, so I wouldn't take this recommendation seriously at this point. 
+  * [This](http://www.jrheum.org/content/36/8/1568.full) seems to be some kind of opinion paper that argues against current practices in regard to SED rate and CRP.
+
+* Go through this paper, adding its relevant content to blog: http://onlinelibrary.wiley.com/doi/10.1002/art.22708/epdf
 * Decide what to do next in regard to examining auto-antibody assays 
+
+Indirect fluorescent antibody may be the same thing as indirect immunofluorescence.
+
 
 Sensitivity and specifity are important properties by which different assay methods are judged.
 This[^fritzler_aab_review_2008] paper gives a nice overview of the state of the research and practice of aab for detecting pre-clinical autoimmune diseases.
 
 ### Take aways 
-* There are some aab associated with diseases, but it's mostly SLE that's been studied 
+* There are some aab associated with diseases, but it's mostly SLE, [fill in the rest here] that have been studied. 
 
 
 ### List of assay methods 
