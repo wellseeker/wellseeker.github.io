@@ -25,6 +25,10 @@ I've seen the acronym RUO when looking at this stuff, I think it stands for "res
 
 [This company](http://www.raregenomics.org/process/?gclid=Cj0KEQiAn8i0BRDur-HV1PCTy4UBEiQAPuFr9BK0cDigaQCOjrQJY6ggNuRzEZHPb53Ag9VAUVNeqSEaAmDB8P8HAQ) seems to provide some kind of diagnosis assistance service that uses genetic tools for people with undiagnosed disorders.
 
+[This paper](http://onlinelibrary.wiley.com/doi/10.1002/art.22708/epdf) mentions that there are "gene sets" that predispose individuals to specific autoimmune diseases. They give the examples HLA, IgA deficiency, and C' component deficiencies. It also says:
+
+>The class II major histocompatibility complex (MHC) alleleHLA–DR4 (DRB1*0401, the shared epitope [SE]) and related alleles are known to be major genetic risk factorsfor RA. 
+
 ### UNC Genetics Clinic Experience
 
 * impressive hospital building and interior space

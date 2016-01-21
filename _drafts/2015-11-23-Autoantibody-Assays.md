@@ -9,7 +9,36 @@ It has been documented that some disease-specific antibodies (aab) predate the c
 An antibody produced by an organism's B cells that is directed at the organism's own proteins[^aab_wikipedia]. [Here](https://neuroendoimmune.wordpress.com/2013/04/16/horror-autotoxicus-the-story-of-autoimmunity/)'s a nice laymen's summary of autoimmune disorders[^neuroimmune_company_note]. It includes a very handy list of autoimmune markers for which lab assays exist. 
 
 ### Currently measurable autoantibodies implicated in diseases
+To investigate this, I started from a [review by Nicola Bizzaro and colleagues](http://onlinelibrary.wiley.com/doi/10.1002/art.22708/epdf), which seems to be appropriately broad in scope. However it's a little older than I'd prefer, c. 2007. If any of the information I find there is outdates, hopefully I'll catch it when reviewing other papers.
+
+The review focuses on autoimmune rheumatic disorders (ARDs), which include
+
+* RA  rheumatoid arthritis
+* SLE systemic lupus erythematosus
+* APS antiphospholipid syndrome
+* CTD connective tissue disease
+* SSc systemic sclerosis
+* SS Sjogren's syndrome
+* ...and possibly others
+
+They say that it's still uncertain whether the presence of antibodies seen in the presence of ARDs are pathological. However, these antibodies have been shown to be predictive of overt ARD in asymptomatic and paucisymptomatic patients. Unfortunately they don't give citations for this. The indicative nature of these antibodies is exciting because, along with the advent of microarray technologies that enable the simultaneous assay of hundreds of antibodies, we may be able to predict overt ARDs. 
+
+Bizzaro and colleagues begin by discussing ANA, which has been implicated in association with SLE. Specifically, in the 1970's it was shown that antibodies to double stranded DNA (anti-dsDNA) were predictive of SLE. They also mention a bunch of other aab's found to be predictive of SLE
+
+* Anti-Ro
+* Anti-La 
+* Anti-Sm
+* Anti-RNP
+* Anticardiolipin
+
+Anti-Ro and anti-la are predictive or Sjogren's syndrome.
+
+Rheumatoid factor (RF) is predictive of rheumatoid arthritis (unsurprisingly...). Anti–cycliccitrullinated peptide (anti-CCP) is also used to predict RA. [Here](http://www.ncbi.nlm.nih.gov/pubmed/17434910)'s a nice paper on anti-CCP. I didn't see anything in the abstract that led me to believe that anti-CCP might be diagnostically useful in the presence of a negative RF, but I didn't completely rule that out from what I read.
+
+
 Todo: Add content from the Bizzaro paper here. When going through the paper, use it's content to document the impression I've been getting that although there's research on aab antibodies, the diagnostic role is only well established for some diseases I don't have the clinical presentation of, and for some of them my current blood work screens me out of the diagnosis. Or maybe that's wrong, will see when trying to document it. 
+
+
 
 ### What kinds of tests are normally ordered for muscle/joint pain and fatigue?
 
