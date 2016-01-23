@@ -35,6 +35,18 @@ I'd be hesitant to trust the content of [this article](https://experiencelife.co
 
 ### Vitamin D deficiency
 
+### Narcolepsy
+There are some tools for self-assessing narcolepsy symptoms [here](http://healthysleep.med.harvard.edu/narcolepsy/diagnosing-narcolepsy/narcolepsy-self-evaluation).
+
+[This summary of a research study](http://www.hypersomniafoundation.org/its-a-fine-line-between-type-2-narcolepsy-and-idiopathic-hypersomnia-and-its-getting-even-finer/) presents new evidence about the relationship between narcolepsy and idiopathic hypersomnia.
+
+### Idiopathic Hypersomnia
+It mentions on [this NIH page](https://www.nlm.nih.gov/medlineplus/ency/article/000803.htm) that idiopathic hypersomnia is usually treated with amphetamines.
+The first paragraph of the [wikipdedia page](https://en.wikipedia.org/wiki/Idiopathic_hypersomnia) on idiopathic hypersomnia takes dim view of progress on the disorder.
+
+### Insomnia
+I list this here because I'm not *totally* sure that the term insomnia doesn't sometimes denote conditions where the patient doesn't realize they aren't sleeping well/getting enough sleep.
+
 ### References
 [^medline]: https://www.nlm.nih.gov/medlineplus/ency/article/000435.htm
 [^chap_77]: Rose, N. R., & Mackay, I. R. (Eds.). (2006). The autoimmune diseases. San Diego, CA: Elsevier Academic Press. Chapter 77
